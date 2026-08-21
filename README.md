@@ -12,8 +12,8 @@ Détectez l’installation Steam, vérifiez le dossier `455130` et restaurez la 
 
 <br>
 
-[![Release](https://img.shields.io/github/v/release/starzismik/ZXG-BO3-ModTools-Repair?style=for-the-badge&color=ff6a00&label=VERSION)](../../releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/starzismik/ZXG-BO3-ModTools-Repair/total?style=for-the-badge&color=ff6a00&label=TÉLÉCHARGEMENTS)](../../releases)
+[![Release](https://img.shields.io/github/v/release/starzismik/ZXG-Reparateur-Mod-Tools-BO3?style=for-the-badge&color=ff6a00&label=VERSION)](../../releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/starzismik/ZXG-Reparateur-Mod-Tools-BO3/total?style=for-the-badge&color=ff6a00&label=TÉLÉCHARGEMENTS)](../../releases)
 [![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-ff6a00?style=for-the-badge&logo=windows&logoColor=white)](#configuration-requise)
 [![Discord](https://img.shields.io/badge/Discord-ModTools%20France-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/4cb3ENTXd4)
 
