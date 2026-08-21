@@ -169,6 +169,6 @@ Développé avec passion par **STARZISMIK**
 
 **[ZXG] Réparateur Mod Tools BO3 — Version 1.0.0**
 
-© 2026 STARZISMIK / ZXG
+© 2026 STARZISMIK
 
 </div>
