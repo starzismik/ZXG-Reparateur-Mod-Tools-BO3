@@ -27,6 +27,8 @@ Détectez l’installation Steam, vérifiez le dossier `455130` et restaurez la 
 
 </div>
 
+<!-- [ZXG] Réparateur Mod Tools BO3 — Release 1.0.0 -->
+
 ---
 
 ## Présentation
