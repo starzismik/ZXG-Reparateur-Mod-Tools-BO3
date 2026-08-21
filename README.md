@@ -92,7 +92,7 @@ La langue est demandée au premier lancement et reste modifiable depuis les para
 ## Installation
 
 1. Ouvrez la page des [Releases GitHub](../../releases/latest).
-2. Téléchargez **`ZXG.BO3.ModTools.Repair.-.1.0.0.exe.zip`**.
+2. Téléchargez **`[ZXG] Réparateur Mod Tools BO3.zip`**.
 3. Extrayez complètement l’archive dans un dossier de votre choix.
 4. Lancez **`ZXG_BO3_ModTools_Repair.exe`**.
 5. Fermez Steam lorsque l’application vous le demande.
