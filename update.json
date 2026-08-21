@@ -4,7 +4,7 @@
   "mandatory": false,
   "changelog": [
     "Détection automatique de Steam, Black Ops III et du dossier 455130",
-    "Réparation guidée de la structure d’installation des Mod Tools",
+    "Réparation guidée de la structure d’installation du Mod Tools",
     "Sauvegarde et correction sécurisée du manifeste Steam",
     "Mode démonstration interactif sans modification des fichiers",
     "Interface multilingue au thème orange ZXG"
