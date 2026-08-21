@@ -1,0 +1,11 @@
+[package]
+name = "zxg-bo3-mod-tools-repair-api"
+version = "1.0.0"
+edition = "2021"
+publish = false
+description = "Public update metadata API for [ZXG] Réparateur Mod Tools BO3"
+
+[dependencies]
+axum = "0.8"
+serde = { version = "1", features = ["derive"] }
+tokio = { version = "1", features = ["macros", "rt-multi-thread", "net"] }
