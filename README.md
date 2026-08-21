@@ -6,7 +6,7 @@
   <sub>&nbsp;</sub>
 </h1>
 
-### Réparez proprement l’installation des Mod Tools de Call of Duty: Black Ops III
+### Réparez proprement l’installation du Mod Tools de Call of Duty: Black Ops III
 
 Détectez l’installation Steam, vérifiez le dossier `455130` et restaurez la structure attendue de Black Ops III depuis une interface moderne, claire et sécurisée.
 
@@ -31,7 +31,7 @@ Détectez l’installation Steam, vérifiez le dossier `455130` et restaurez la 
 
 ## Présentation
 
-**[ZXG] Réparateur Mod Tools BO3** est un utilitaire Windows conçu pour corriger le problème d’installation plaçant les fichiers des Mod Tools de **Call of Duty: Black Ops III** dans un dossier séparé `455130`.
+**[ZXG] Réparateur Mod Tools BO3** est un utilitaire Windows conçu pour corriger le problème d’installation plaçant les fichiers du Mod Tools de **Call of Duty: Black Ops III** dans un dossier séparé `455130`.
 
 L’application localise automatiquement Steam et Black Ops III, analyse la structure existante, contrôle l’espace disponible, puis guide l’utilisateur pendant une réparation sécurisée.
 
@@ -108,7 +108,7 @@ La langue est demandée au premier lancement et reste modifiable depuis les para
 - Call of Duty: Black Ops III
 - Mod Tools de Call of Duty: Black Ops III
 - AppID du jeu : `311210`
-- AppID des Mod Tools : `455130`
+- AppID du Mod Tools : `455130`
 
 ---
 
