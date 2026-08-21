@@ -1,0 +1,16 @@
+{
+  "app_name": "[ZXG] Réparateur Mod Tools BO3",
+  "version": "1.0.0",
+  "mandatory": false,
+  "changelog": [
+    "Détection automatique de Steam, Black Ops III et du dossier 455130",
+    "Réparation guidée de la structure d’installation des Mod Tools",
+    "Sauvegarde et correction sécurisée du manifeste Steam",
+    "Mode démonstration interactif sans modification des fichiers",
+    "Interface multilingue au thème orange ZXG"
+  ],
+  "download_url": "https://github.com/starzismik/ZXG-BO3-ModTools-Repair/releases/download/v1.0.0/ZXG.BO3.ModTools.Repair.-.1.0.0.exe.zip",
+  "github_repo": "starzismik/ZXG-BO3-ModTools-Repair",
+  "release_date": "2026-08-21",
+  "minimum_version": "1.0.0"
+}
